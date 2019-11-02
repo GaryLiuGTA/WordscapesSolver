@@ -1,0 +1,1 @@
+# WordscopeSolver
